@@ -1,0 +1,21 @@
+#Main {
+  width: 650px;
+  font-size: 18px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+.text {
+  line-height: 1.6;
+  color: blue;
+  font-family: "papyrus", Times, serif;
+}
+
+body {
+  background-color: magenta;
+}
+.header {
+  color: green;
+  font-family: "Comic Sans MS", "Comic Sans";
+}
